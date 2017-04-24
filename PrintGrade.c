@@ -8,6 +8,7 @@ void main()
   int SearchID, found_index;
 
   printf("Hello hi\n");
+    printf("Watcharit");
 
   printf("\nSTUDENT GPA LIST: \n");
   printf("ID----Name------------------------GPA\n");
