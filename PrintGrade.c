@@ -7,7 +7,7 @@ void main()
   int N = 6, i;
   int SearchID, found_index;
 
-  printf("Hello\n");
+  printf("Hello hi\n");
 
   printf("\nSTUDENT GPA LIST: \n");
   printf("ID----Name------------------------GPA\n");

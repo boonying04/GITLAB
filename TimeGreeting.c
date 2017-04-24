@@ -45,5 +45,6 @@ void main()
     printf("Continue (Y/N)?"); scanf("%c", &answer); 
   } while (answer == 'Y'); 
   printf("Good Bye!"); 
+  printf("Bye bye bye bye!");
   scanf("%c", &answer); 
 }
